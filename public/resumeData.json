@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Stephanie George",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"I hold the belief that if we design with the user in mind we can't lose. I'm driven by a desire to solve business problems by focussing on customer needs. I'm goal oriented and passionate but I don't take myself too seriously. I also hate talking about myself. I love creating art and listening to music in my free time. Some of my art can be found on my Instagram and my many playlists can be found on Spotify (both are linked above).",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "stephgeorge04@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.stephsgeorge.com",
+    "resumedownload":"ResumeSG.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/stephanie-sarah-george/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"email",
+        "url":"mailto:stephgeorge04@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/stephsgeorge/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"spotify",
+        "url":"https://open.spotify.com/user/stephyg927?si=1wnYAphaSFel1oNoLAlsBQ/",
+        "className":"fa fa-music"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Through work, school and personal projects I have gained skills in:",
+    "education":[
+      {
+        "school":"Northwestern University",
+        "degree":"MS in Information Design & Strategy",
+        "graduated":"Est. Graduation June 2020",
+        "description":"My ultimate goal in going back to school was to learn more about design, strategy and leadership. Through this program I have been exposed to the major concepts of UX/UI design such as visual communication, user research, information architcture and user-centric design. Along with this I have learned how to balance my time, adapt and collaborate remotely on group projects."
+      },
+      {
+        "school":"Saint Louis University",
+        "degree":"BA in Computer Science",
+        "graduated":"May 2017",
+        "description":"During my time at Saint Louis University I was able to gain a wholistic education while majoring in Copmuter Science. I learned the fundamentals of software development while studying graphic design, art, ethics and Shakespeare. I was also able to hold leadership roles and collaborate in various teams for projects and extra cirriculars. Through this I learned how to be an authetncic, servant leader as well as a team player."
+      }
+    ],
+    "work":[
+      {
+        "company":"Studio Hammer",
+        "title":"User Researcher ",
+        "years":"February 2020 - Present",
+        "description":"Applying design thinking concepts and user research practices to create new narratives for a start up tech company. Though this experience I have gained strengths in active listening, empathy and qualitative analytics to define personas and help build new strategies."
+      },
+      {
+        "company":"United Technologies Corporation",
+        "title":"Digital Leadership Program Associate",
+        "years":"July 2018 - Present",
+        "description":"Working as a rotational associate for the digital sector of an aerospace company. This requires me to move to a new state and start a new job within the company every eight months. Although I have gained important experience in software engineering and project management I have gained invaluable skills such as adapatability and comfort with ambiguity."
+      }
+    ],
+    "skills":[
+      {
+        "name":"User Research",
+        "level":"60%"
+      },
+      {
+        "name":"UX Design",
+        "level":"65%"
+      },
+      {
+        "name":"Adobe Creative Suite",
+        "level":"80%"
+      },
+      {
+        "name":"CSS/HTML5",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SLU CS Site Revamp",
+        "image":"slu-cs-portfolio.png",
+        "url":"https://cs.slu.edu/"
+      },
+      {
+        "title":"My Portfolio UX/UI",
+        "image":"my-portfolio-portfolio.png",
+        "url":"https://cs.slu.edu/"
+      },
+      {
+        "title":"Spoting Jax Graphic Design",
+        "image":"studio-hammer-portfolio.png",
+        "url":"https://cs.slu.edu/"
+      }
+    ]
+  }
+}
